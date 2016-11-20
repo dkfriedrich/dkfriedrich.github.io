@@ -1,0 +1,37 @@
+
+.profile-picture {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+.card-block {
+	background-color:#ccff66;
+}
+.card-footer {background-color: lightblue;}
+
+body {
+  background: powderblue;
+  color:black;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.card {
+  border-color: #2F4F4F;
+  border-width: 10px
+}
+
+.card-title {
+  color: #C71585;
+  font-weight: 300;
+}
+
+.card-block small {
+	margin: large;
+  float: right;
+}
+
+.navbar {margin-bottom: 0px;}
+.nav-link {margin-left: 0px}
+
+
+
