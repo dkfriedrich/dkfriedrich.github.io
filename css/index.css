@@ -2,6 +2,8 @@
   background-image: url("http://i1.ytimg.com/vi/ea1GMrjjJ1A/maxresdefault.jpg");
   background-size: cover;
   color: white;
+  margin-bottom: 0px
 }
 .navbar {margin-bottom: 0px;}
-.nav-link {margin-left: 0px}
+.nav-link {margin-left: 0px !important;}
+
